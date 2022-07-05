@@ -36,7 +36,7 @@ function App() {
   const [memos, setMemos] = useState([
     {
       id: 1,
-      text: '최악의 습관 5가지 1. 가공식품 많이 먹기 2. 물 안 마시기 3. 과음하기 4. 스트레스 관리 안 하기 5. 운동부족',
+      text: '건강뉴스 : 최악의 습관 5가지 1. 가공식품 많이 먹기 2. 물 안 마시기 3. 과음하기 4. 스트레스 관리 안 하기 5. 운동부족',
     },
   ]);
   const [filtered, setFiltered] = useState('');
